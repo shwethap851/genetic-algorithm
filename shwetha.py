@@ -1,4 +1,3 @@
-
 import datetime
 from fractions import Fraction
 import random
